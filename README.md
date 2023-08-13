@@ -86,7 +86,8 @@ We will be using PACE framework to work on this project. This is a framework by 
 3. No ethical challenges as all dataset are evenly represented across range of variables. e.g Marital status, sex etc.
 
 TABLEAU
-The tableau visualization can be access via this link
-![image](https://github.com/kkkossy/SUPER-STORE-MARKETING-CAMPAIGN/assets/118011823/32048aae-14d5-4e28-9ae2-043ccfedb87d)
+The tableau visualization can be accessed via [link](https://public.tableau.com/app/profile/kossyso.ajuluchukwu/viz/SUPERSTOREMARKETCAMPAIGN/Dashboard1?publish=yes)
+
+
 
 
