@@ -84,3 +84,9 @@ We will be using PACE framework to work on this project. This is a framework by 
 2. The data set is a Superstore Marketing campaign dataset dowloaded from Kaggle. This data set can be gotten from this link https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv
 
 3. No ethical challenges as all dataset are evenly represented across range of variables. e.g Marital status, sex etc.
+
+TABLEAU
+The tableau visualization can be access via this link
+![image](https://github.com/kkkossy/SUPER-STORE-MARKETING-CAMPAIGN/assets/118011823/32048aae-14d5-4e28-9ae2-043ccfedb87d)
+
+
